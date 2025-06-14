@@ -1,6 +1,6 @@
 # LOCO-TALES
 
-#VIDEO-LINK : https://youtu.be/cyCqkXZLdco?si=FZpSwgaumXy91zNR
+#DEMO VIDEO-LINK : https://youtu.be/cyCqkXZLdco?si=FZpSwgaumXy91zNR
 
 #Live-Website :https://sriram-b-cit.github.io/LOCO-TALES/
 
