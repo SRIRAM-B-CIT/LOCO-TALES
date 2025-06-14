@@ -42,7 +42,7 @@ A local guide web application built with HTML, CSS, and JavaScript that helps us
 
 1. **Clone or download** the project folder
 2. Open `index.html` in any modern browser
-3. Type a location (e.g. `Mumbai`) and pick a category
+3. Type a location (e.g. `Chennai`) and pick a category
 4. Click **Explore** and enjoy!
 
 ---
