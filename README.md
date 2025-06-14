@@ -1,5 +1,6 @@
 # LOCO-TALES
-Here's a professional, clean `README.md` content for your **Local Guide Website project**, which includes all essential sections:
+#VIDEO-LINK : https://youtu.be/cyCqkXZLdco?si=FZpSwgaumXy91zNR
+#Live-Website :https://sriram-b-cit.github.io/LOCO-TALES/
 
 ---
 
